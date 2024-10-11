@@ -25,6 +25,10 @@
 
 A developer who is in developing development.
 
+<div class="image" style="witdh: 100%;">
+  <img src="![7k5e](https://github.com/user-attachments/assets/617470aa-a589-4b5f-b6ec-0e0172e0a3d9)" alt="gif image" />
+</div>
+
 <!--
 **NicolasPastorio/NicolasPastorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
